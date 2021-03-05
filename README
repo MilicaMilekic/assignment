@@ -1,0 +1,6 @@
+# assignment
+Market store assignment, for Java Spring 2021
+
+For this assignment, I made a parent class named Card which contains all variables and a method named Total. 
+Classes Bronze, Silver, and Gold extend the Card class, and override the method Total. 
+In the main class MarketStore I created an instance of every class to test the method Total.
